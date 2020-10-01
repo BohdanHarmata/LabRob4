@@ -1,0 +1,13 @@
+C:\Users\Роман Коновал\Desktop\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.exe
+C:\Users\Роман Коновал\Desktop\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.deps.json
+C:\Users\Роман Коновал\Desktop\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.json
+C:\Users\Роман Коновал\Desktop\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.dev.json
+C:\Users\Роман Коновал\Desktop\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.dll
+C:\Users\Роман Коновал\Desktop\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.pdb
+C:\Users\Роман Коновал\Desktop\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.csprojAssemblyReference.cache
+C:\Users\Роман Коновал\Desktop\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfoInputs.cache
+C:\Users\Роман Коновал\Desktop\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfo.cs
+C:\Users\Роман Коновал\Desktop\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Роман Коновал\Desktop\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.dll
+C:\Users\Роман Коновал\Desktop\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.pdb
+C:\Users\Роман Коновал\Desktop\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.genruntimeconfig.cache
